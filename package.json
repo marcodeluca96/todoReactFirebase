@@ -1,7 +1,7 @@
 {
   "name": "todo-react-firebase",
   "version": "0.1.0",
-  "homepage": "https://marcodeluca96.github.io/todobe/",
+  "homepage": "https://marcodeluca96.github.io/todoReactFirebase/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.8",
