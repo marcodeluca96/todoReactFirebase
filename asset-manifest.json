@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todobe/static/css/main.5b943dc8.css",
+    "main.js": "/todobe/static/js/main.294d0e0b.js",
+    "index.html": "/todobe/index.html",
+    "main.5b943dc8.css.map": "/todobe/static/css/main.5b943dc8.css.map",
+    "main.294d0e0b.js.map": "/todobe/static/js/main.294d0e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b943dc8.css",
+    "static/js/main.294d0e0b.js"
+  ]
+}
