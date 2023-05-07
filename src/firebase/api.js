@@ -5,6 +5,7 @@ import {
   getDocs,
   updateDoc,
   doc,
+  deleteDoc,
 } from 'firebase/firestore';
 
 // const TODO = {
@@ -42,4 +43,9 @@ export const updateTodo = async (id, text, checked) => {
     text: text,
     isChecked: checked,
   });
+};
+
+export const deleteTodo = async (id) => {
+  const todoRef = doc(db, 'todos', id);
+  await deleteDoc(todoRef);
 };
